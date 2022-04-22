@@ -6,7 +6,7 @@
 -   You can read more about me at [LinkedIn](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
 
 ##  Blog post
-* follow me on [medium](https://medium.com/me/stories/public)
+* follow me for latest post  on [medium](https://medium.com/me/stories/public)
 
 
 <!---
