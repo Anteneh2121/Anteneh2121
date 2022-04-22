@@ -5,10 +5,8 @@
 - 📫 Feel free to connect over antukassaw1@gmail.com
 
 
-##  Blogs posts
 
 
-* What happens when you type https://www.google.com in your browser and press Enter.
 <!---
 Anteneh2121/Anteneh2121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
