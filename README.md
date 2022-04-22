@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anteneh2121
-- 👀 I’m interested in software engineering...
+- 👀  I’m currently learning software engineering at ALX
 - 🌱 I’m currently learning software engineering...
-- 💞️ I’m looking to collaborate on any project 
+- 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 Feel free to connect over antukassaw1@gmail.com
 
 <!---
