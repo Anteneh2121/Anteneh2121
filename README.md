@@ -5,6 +5,8 @@
 - 📫 Feel free to connect over antukassaw1@gmail.com
 -   You can read more about me at [LinkedIn](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
 
+##  Blog post
+* follow me on [medium](https://medium.com/me/stories/public)
 
 
 <!---
