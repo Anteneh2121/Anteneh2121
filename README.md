@@ -3,7 +3,7 @@
 - 🌱 I am interested in software engineering 
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 Feel free to connect over antukassaw1@gmail.com
-
+-   You can read more about me at [LinkedIn](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
 
 
 
