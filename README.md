@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anteneh2121
+- 👋 Hi, I’m Anteneh kassaw
 - 👀  I’m currently learning software engineering at ALX
 - 🌱 I’m currently learning software engineering...
 - 💞️ I’m looking to collaborate on OpenSource Projects
