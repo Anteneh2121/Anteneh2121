@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Anteneh kassaw
+- I love to program, I love to learn and to build things
 - 👀  I’m currently learning software engineering at [ALX](https://www.alxafrica.com/software-engineering) and [AASTU](http://www.aastu.edu.et/)
 - 🌱 I am interested in software engineering 
 - 💞️ I’m looking to collaborate on OpenSource Projects
