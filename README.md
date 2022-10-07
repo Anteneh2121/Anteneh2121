@@ -5,7 +5,7 @@
 - 🌱 I am interested in software engineering and cloud developer
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 Feel free to reach me antukassaw1@gmail.com
--  📫 You can read more about me at [LinkedIn](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
+-  📫 You can read more about me at [LinkedIn](https://www.linkedin.com/in/anteneh-bizuneh-334430212/)
 
 
 <!---
