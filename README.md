@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anteneh kassaw
+- 👋 Hi, I’m Anteneh Bizuneh
 - 👋 I love to program, I love to learn and to build things
 - 👀  I’m currently learning Cloud developer at [Udacity](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
 - 🌱 I am interested in software engineering 
