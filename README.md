@@ -1,7 +1,6 @@
 - ##  Hi there 👋 
-- 👋 I’m Software engineer.
+- 👋 I’m Software engineer and Cloud Developer
 - 👋 I love to program, I love to learn and to build things
-- 👀  I’m currently learning Cloud developer at [Udacity](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
 - 🌱 I am interested in software engineering and cloud developer
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 Feel free to reach me antukassaw1@gmail.com
