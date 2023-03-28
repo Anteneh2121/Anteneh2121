@@ -1,8 +1,6 @@
 - ##  Hi there 👋 
 - 👋 As a Backend Software Engineer and AWS Cloud Developer, I am passionate about designing and developing scalable, efficient, and high-performance software system
-- 🌱 I am interested in software engineering and cloud developer
-- 💞️ I’m looking to collaborate on OpenSource Projects
-- 📫 If you're looking for Backend Software Engineer and AWS Cloud Developer who can help your organization achieve its goals, please don't hesitate to connect with me at  antukassaw1@gmail.com
+- 📫 If you're looking for Backend Software Engineer and AWS Cloud Developer who can help your organization achieve its goals, please don't hesitate to connect with me 
 -  📫 You can read more about me at [LinkedIn](https://www.linkedin.com/in/antenehbizuneh/)
 
 
